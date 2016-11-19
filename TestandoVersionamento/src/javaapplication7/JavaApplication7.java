@@ -15,7 +15,12 @@ public class JavaApplication7 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
     }
+    public static int somar(int v1,int v2){
     
+        int soma;
+        soma=v1=v2;
+        return soma;
+    } 
 }
