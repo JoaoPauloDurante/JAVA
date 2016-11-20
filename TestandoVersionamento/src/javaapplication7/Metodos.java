@@ -22,6 +22,6 @@ public class Metodos {
         double divisao;
 
         divisao = v1 / v2;
-        return divisao;;;;;;;;;;;;;;
+        return divisao;
     }
 }
