@@ -18,18 +18,5 @@ public class JavaApplication7 {
 
     }
 
-    public static int somar(int v1, int v2) {
-
-        int soma;
-        soma = v1 = v2;
-        return soma;
-    }
-
-    public static double dividir(double v1, double v2) {
-
-        double divisao;
-
-        divisao = v1 / v2;
-        return divisao;
-    }
+   
 }
